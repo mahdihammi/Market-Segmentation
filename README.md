@@ -5,6 +5,8 @@
 ![7c6d36d7-88db-422c-90a2-c98d548fbd4e](https://github.com/mahdihammi/Market-Segmentation/assets/89527502/012e147d-7a71-4aba-91b4-f2ad0d28f755)
 
 
+Used dimensionality reduction with PCA
+
 ![appppp](https://github.com/mahdihammi/Market-Segmentation/assets/89527502/d026b70d-eaf8-4cae-b9f0-64ca2e25e6a8)
 
 <br>
