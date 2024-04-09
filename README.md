@@ -1,4 +1,4 @@
-# Explored Clustering Techniques to solve a problem of market segmentation when we make clusters of customers based on their behavior and characteristics. allowing us for tailored marketing strategies, personalized product recommendations, and improved customer retention efforts. Additionally, it facilitated targeted messaging and efficient allocation of resources, ultimately leading to increased customer satisfaction, loyalty, and revenue growth.
+### Explored Clustering Techniques to solve a problem of market segmentation when we make clusters of customers based on their behavior and characteristics. allowing us for tailored marketing strategies, personalized product recommendations, and improved customer retention efforts. Additionally, it facilitated targeted messaging and efficient allocation of resources, ultimately leading to increased customer satisfaction, loyalty, and revenue growth.
 
 
 
