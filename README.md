@@ -23,7 +23,7 @@ weighted avg       0.94      0.94      0.94      2685
 
 ![appppp](https://github.com/mahdihammi/Market-Segmentation/assets/89527502/d026b70d-eaf8-4cae-b9f0-64ca2e25e6a8)
 
-created a web app using Streamlit
+created a web app using Streamlit to make prediction in a user-friendly and to deploy the app
 
 <br>
 
