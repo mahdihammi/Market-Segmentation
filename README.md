@@ -6,8 +6,24 @@
 
 
 Used dimensionality reduction with PCA
+Then after the process of Clustering using Kmeans , and after i assign a clutser to each user to finally create a new dataframe contains cluster column, we can say that it's our target.
+i trained a decision tree model to predict the cluster
+
+
+   precision    recall  f1-score   support
+
+           0       0.90      0.87      0.88       127
+           1       0.96      0.96      0.96      1191
+           2       0.89      0.88      0.89       337
+           3       0.95      0.95      0.95      1030
+
+    accuracy                           0.94      2685
+   macro avg       0.93      0.92      0.92      2685
+weighted avg       0.94      0.94      0.94      2685
 
 ![appppp](https://github.com/mahdihammi/Market-Segmentation/assets/89527502/d026b70d-eaf8-4cae-b9f0-64ca2e25e6a8)
+
+created a web app using Streamlit
 
 <br>
 
