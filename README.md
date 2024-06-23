@@ -23,7 +23,7 @@ i trained a decision tree model to predict the cluster
 
 
 
-created a web app using Streamlit to make inference in a user-friendly and to deploy the app, Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver interactive data apps – in only a few lines of code. you find the documentation of streamlit here https://docs.streamlit.io/ <br>
+created a web app using Streamlit to make inference in a user-friendly and to deploy the app, Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver interactive data apps – in only a few lines of code. you find the documentation of streamlit here [streamlit docs](https://docs.streamlit.io) <br>
 
 
 ![appppp](https://github.com/mahdihammi/Market-Segmentation/assets/89527502/d026b70d-eaf8-4cae-b9f0-64ca2e25e6a8)
